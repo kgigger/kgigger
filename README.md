@@ -1,6 +1,6 @@
 # Hi, I'm Kent 👋
 
-Developer, blogger, and professional tinkerer. I build things for clients by day and run weird experiments by night.
+Technical consultant. Startup founder (one exit). 15+ years solving problems where marketing and engineering collide.
 
 > Most of my work lives behind NDAs, but here's what I'm up to publicly.
 
@@ -14,7 +14,19 @@ I'm documenting whether **SEO alone can build an audience in the age of AI** - t
 
 ---
 
-## 🛠️ What I work with
+## 💼 What I do
+
+I run **GigTech LLC**, helping companies solve the messy intersection problems most consultants won't touch:
+
+- SEO strategy blocked by technical debt
+- Marketing teams that need infrastructure they don't know how to ask for
+- Translating marketing jargon into things developers will actually fix
+
+I can architect the strategy AND execute it. That's the difference.
+
+---
+
+## 🛠️ What I work with - ever changing
 
 **Frameworks:** Astro, Next.js, Nuxt.js, WordPress, CakePHP
 
@@ -31,9 +43,9 @@ I'm framework-agnostic. I pick what fits the problem.
 ## 🎯 Currently
 
 - Running an SEO experiment in public
+- Consulting through GigTech LLC
 - Building client projects (the NDA kind)
-- Learning to vibe with AI-assisted development
-- Convincing myself golf is fun
+- Hiking, camping, and pretending golf is fun
 
 ---
 
